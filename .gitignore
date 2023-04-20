@@ -3,6 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# virtual enviroments
+venv
+.venv
+
+#compiler folders
+.mypy_cache
+.vscode
+
+# exe folders
+validador_cpf
 # C extensions
 *.so
 
